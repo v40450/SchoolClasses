@@ -1,0 +1,2 @@
+# SchoolClasses
+JavaScript Classes Inheritance
